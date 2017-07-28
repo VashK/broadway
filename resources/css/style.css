@@ -2,6 +2,15 @@ body {
     font-family: Helvetica;
 }
 
+h1 {
+    font-size: 70px;
+    color: white;
+}
+
+.bold {
+    font-weight: bold;
+}
+
 .content-center {
   text-align: center;
 }
@@ -14,4 +23,26 @@ body {
 
 #nav  a {
   color: white;
+}
+
+#nav {
+    font-size: 18px;
+}
+
+#process h2, #process h3 {
+    font-weight: bold;
+    ffont-size: 18px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#nyc {
+    background-image: url(../images/the-flatiron-building.png)
+}
+
+#nyc h1{
+    font-size: 23px;
 }
